@@ -1,0 +1,27 @@
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    const element = document.querySelector('#ContentContainer_MainContent_MainContent_RegisterLocalFormHeading > span > span');
+    element.innerHTML = "Зареєструйте новий обліковий запис";
+    const userNameLabel = document.querySelector('#ContentContainer_MainContent_MainContent_UsernameLabel > span > span');
+    userNameLabel.innerHTML = "Ім'я користувача";
+    const passwordLabel = document.querySelector('#ContentContainer_MainContent_MainContent_PasswordLabel > span > span');
+    passwordLabel.innerHTML = "Пароль";
+    let confirmPasswordLabel = document.querySelector('#ContentContainer_MainContent_MainContent_ConfirmPasswordLabel > span > span');
+    confirmPasswordLabel.innerHTML = "Підтвердіть пароль";
+    
+    const enterCode = document.querySelector('#ctl00_ctl00_ContentContainer_MainContent_MainContent_captcha_CaptchaTextBoxLabel')
+    enterCode.innerHTML = "Запишіть літери які зображені на фото";
+    let registerButton = document.querySelector('#SubmitButton')
+    registerButton.innerHTML = "Зареєструватись";
+    registerButton.value = "Зареєструватись";
+    let registerButton1 = document.querySelector('#content > ul > li:nth-child(2) > a')
+    registerButton1.innerHTML = "Реєстрація";
+    let signInButton1 = document.querySelector('#content > ul > li:nth-child(1) > a') 
+    signInButton1.innerHTML = "Увійти";
+
+    let captchaGenerateImage = document.querySelector('#ctl00_ctl00_ContentContainer_MainContent_MainContent_captcha_CaptchaLinkButton');
+    captchaGenerateImage.innerHTML = "Згенерувати нове фото";
+    let captchaAudioCode = document.querySelector('#ctl00_ctl00_ContentContainer_MainContent_MainContent_captcha_CaptchaAudioCodeUP#ctl00_ctl00_ContentContainer_MainContent_MainContent_captcha_CaptchaAudioCodeUP');
+    captchaAudioCode.innerHTML = "Проговорити звуком літери";
+});
+</script>

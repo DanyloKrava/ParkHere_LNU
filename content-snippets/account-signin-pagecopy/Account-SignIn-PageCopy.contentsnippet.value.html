@@ -1,0 +1,24 @@
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    const element = document.getElementById('local-login-heading');
+    element.innerHTML = "Вперше тут? Натисніть \"Зареєструватися\", щоб створити новий обліковий запис, або увійдіть нижче.";
+    let forgetButton = document.querySelector('[title="Forgot your password?"]');
+    forgetButton.innerHTML = "Забули ім'я користувача/пароль?";
+    let signInButton = document.querySelector('[id="submit-signin-local"]');
+    signInButton.innerHTML = "Увійти";
+    let userNameLabel = document.querySelector('#mainContent > div.row > div > form > div > div:nth-child(3) > label > span > span');
+    userNameLabel.innerHTML = "Ім'я користувача";
+    let passwordLabel = document.querySelector('#mainContent > div.row > div > form > div > div:nth-child(4) > label > span > span');
+    passwordLabel.innerHTML = "Пароль";
+    let rememberMeLabel = document.querySelector('#mainContent > div.row > div > form > div > div:nth-child(5) > div > div > label > span > span');
+    rememberMeLabel.innerHTML = "Запам'ятати мене?";
+    let signInTab = document.querySelector('#content > ul > li:nth-child(1) > a');
+    signInTab.innerHTML = "Увійти";
+    let signUpTab = document.querySelector('#content > ul > li:nth-child(2) > a');
+    signUpTab.innerHTML = "Зареєструватись";
+    let captchaText = document.querySelector('#ctl00_ctl00_ContentContainer_MainContent_MainContent_captcha_CaptchaTextBox');
+    captchaText.style = "background-color: white !important;";
+    let signIn2 = document.querySelector('#navbar > nav > ul > li:nth-child(6) > a');
+    signIn2.style = "Увійти";
+});
+</script>

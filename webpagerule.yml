@@ -1,0 +1,18 @@
+- adx_name: Restrict Read on Головна
+  adx_right: 2
+  adx_scope: 2
+  adx_webpageaccesscontrolrule_webrole:
+  - aebdece5-a82f-4568-a21d-a6f2afb55567
+  adx_webpageaccesscontrolruleid: 655a83f5-f3de-53f2-ed50-68fd67131451
+  adx_webpageid: 063da65b-cee2-4805-8f00-220cf89ead47
+- adx_name: Grant Change to Content
+  adx_right: 1
+  adx_scope: 1
+  adx_webpageaccesscontrolruleid: 813b14a3-9970-4669-b53d-387c44ff0e47
+- adx_name: Grant Change to Administrators
+  adx_right: 1
+  adx_scope: 1
+  adx_webpageaccesscontrolrule_webrole:
+  - 67523218-f70b-4e20-b325-9cf6d7a7e0dd
+  adx_webpageaccesscontrolruleid: 8d55cc1a-fe54-4253-972a-322311a4f918
+  adx_webpageid: 063da65b-cee2-4805-8f00-220cf89ead47

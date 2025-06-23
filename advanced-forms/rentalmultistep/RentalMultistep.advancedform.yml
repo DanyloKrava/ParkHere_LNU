@@ -1,0 +1,12 @@
+adx_editexistingrecordpermitted: true
+adx_filecontent: 
+adx_multiplerecordsperuserpermitted: false
+adx_name: RentalMultistep
+adx_progressindicatorenabled: false
+adx_progressindicatorposition: 756150000
+adx_progressindicatortype: 756150000
+adx_startstep: 10e54883-24e0-4ed2-b9db-172ac71a7be2
+adx_webformid: da23f9ec-753e-4e1d-bfb9-68fc3d9b626f
+adx_webFormSteps:
+- []
+- []

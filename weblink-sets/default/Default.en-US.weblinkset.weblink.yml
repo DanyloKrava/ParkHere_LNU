@@ -1,0 +1,92 @@
+- adx_disablepagevalidation: false
+  adx_displayimageonly: false
+  adx_displayorder: 2
+  adx_displaypagechildlinks: false
+  adx_filecontent: 
+  adx_name: Pages-deleted
+  adx_openinnewwindow: false
+  adx_pageid: 91fb65a1-5b59-45f1-9231-594aaf9c94a6
+  adx_publishingstateid: 4d4e82c7-4173-4a0d-865b-394884d0a202
+  adx_robotsfollowlink: true
+  adx_weblinkid: 0bc32819-da07-4945-8e04-be353234b152
+  adx_weblinksetid: 2f1ae609-0c73-482e-8153-be870cc85c55
+  statecode: 1
+  statuscode: 2
+- adx_displayimageonly: false
+  adx_displayorder: 6
+  adx_displaypagechildlinks: false
+  adx_displaypagevalidation: false
+  adx_filecontent: 
+  adx_name: Відгук
+  adx_openinnewwindow: false
+  adx_pageid: 25742018-02eb-4758-0ec4-7159a25a0843
+  adx_publishingstateid: 4d4e82c7-4173-4a0d-865b-394884d0a202
+  adx_robotsfollowlink: true
+  adx_weblinkid: 25780df6-6d74-e551-6fb5-76b76b5867b6
+  adx_weblinksetid: 2f1ae609-0c73-482e-8153-be870cc85c55
+- adx_displayimageonly: false
+  adx_displayorder: 7
+  adx_displaypagechildlinks: false
+  adx_displaypagevalidation: false
+  adx_name: FAQ
+  adx_openinnewwindow: false
+  adx_pageid: 51447814-0d71-ad7b-d511-6d230a6eaa6d
+  adx_publishingstateid: 4d4e82c7-4173-4a0d-865b-394884d0a202
+  adx_robotsfollowlink: true
+  adx_weblinkid: 378e4844-4fe4-9749-6319-cb2df6654530
+  adx_weblinksetid: 2f1ae609-0c73-482e-8153-be870cc85c55
+- adx_displayimageonly: false
+  adx_displayorder: 5
+  adx_displaypagechildlinks: false
+  adx_displaypagevalidation: false
+  adx_name: Home Page-deleted
+  adx_openinnewwindow: false
+  adx_pageid: 61d6c03f-446e-ebd6-55c6-ccefb30065c8
+  adx_publishingstateid: 4d4e82c7-4173-4a0d-865b-394884d0a202
+  adx_robotsfollowlink: true
+  adx_weblinkid: 7195c2e3-3e1b-861c-8a09-6bb585ecaeb3
+  adx_weblinksetid: 2f1ae609-0c73-482e-8153-be870cc85c55
+  statecode: 1
+  statuscode: 2
+- adx_disablepagevalidation: false
+  adx_displayimageonly: false
+  adx_displayorder: 1
+  adx_displaypagechildlinks: false
+  adx_filecontent: 
+  adx_name: Головна
+  adx_openinnewwindow: false
+  adx_pageid: 063da65b-cee2-4805-8f00-220cf89ead47
+  adx_publishingstateid: 4d4e82c7-4173-4a0d-865b-394884d0a202
+  adx_robotsfollowlink: true
+  adx_weblinkid: e354b1ab-55f8-4941-9b75-5342374a561b
+  adx_weblinksetid: 2f1ae609-0c73-482e-8153-be870cc85c55
+- adx_disablepagevalidation: false
+  adx_displayimageonly: false
+  adx_displayorder: 4
+  adx_displaypagechildlinks: false
+  adx_filecontent: 
+  adx_name: Subpage one-deleted
+  adx_openinnewwindow: false
+  adx_pageid: 6fee56da-d7d4-42b5-8b37-f98253fadfb8
+  adx_parentweblinkid: 
+  adx_publishingstateid: 4d4e82c7-4173-4a0d-865b-394884d0a202
+  adx_robotsfollowlink: true
+  adx_weblinkid: f33a1036-df38-4142-a6a0-ebb2339dd3da
+  adx_weblinksetid: 2f1ae609-0c73-482e-8153-be870cc85c55
+  statecode: 1
+  statuscode: 2
+- adx_disablepagevalidation: false
+  adx_displayimageonly: false
+  adx_displayorder: 3
+  adx_displaypagechildlinks: false
+  adx_filecontent: 
+  adx_name: Subpage two-deleted
+  adx_openinnewwindow: false
+  adx_pageid: 217c5316-9995-4228-8650-1d8ab46a5cc3
+  adx_parentweblinkid: 
+  adx_publishingstateid: 4d4e82c7-4173-4a0d-865b-394884d0a202
+  adx_robotsfollowlink: true
+  adx_weblinkid: fb1c0f56-34b0-4c05-830a-f54f052360e8
+  adx_weblinksetid: 2f1ae609-0c73-482e-8153-be870cc85c55
+  statecode: 1
+  statuscode: 2

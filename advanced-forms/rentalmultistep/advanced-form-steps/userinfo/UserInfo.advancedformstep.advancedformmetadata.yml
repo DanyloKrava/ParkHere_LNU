@@ -1,0 +1,205 @@
+- adx_adddescription: false
+  adx_addPrePopulate: false
+  adx_attributelogicalname: park_username
+  adx_controlstyle: 
+  adx_description: >-
+    [
+      {
+        "LCID": 1033,
+        "Value": ""
+      }
+    ]
+  adx_descriptionposition: 100000000
+  adx_entityFormId: da23f9ec-753e-4e1d-bfb9-68fc3d9b626f
+  adx_fieldisrequired: true
+  adx_fieldType: StringType
+  adx_filecontent: 
+  adx_isPCFComponent: false
+  adx_label: >-
+    [
+      {
+        "LCID": 1033,
+        "Value": "Ваше ім'я"
+      }
+    ]
+  adx_lcid: 1033
+  adx_requiredfieldvalidationerrormessage: >-
+    [
+      {
+        "LCID": 1033,
+        "Value": ""
+      }
+    ]
+  adx_telemetryData:
+    fieldType: &o1 []
+    formId: &o2 []
+    isPrePopulateEnabled: &o0 []
+  adx_type: 100000000
+  adx_useattributedescriptionproperty: false
+  adx_useCustomErrorMessage: false
+  adx_validationMode: regex
+  adx_validationregularexpression: ''
+  adx_validationregularexpressionerrormessage: >-
+    [
+      {
+        "LCID": 1033,
+        "Value": ""
+      }
+    ]
+  adx_validationSimple:
+    maxCharCount: &o3 []
+    isRequired: *o0
+  adx_webformmetadataid: 7e0b1298-4945-4cb0-81eb-594c55a591f0
+  adx_webformstep: 0c267c3a-84a3-45d8-961a-5402074d78c4
+- adx_adddescription: false
+  adx_addPrePopulate: false
+  adx_attributelogicalname: cre77_email
+  adx_controlstyle: 
+  adx_description: >-
+    [
+      {
+        "LCID": 1033,
+        "Value": ""
+      }
+    ]
+  adx_descriptionposition: 100000000
+  adx_entityFormId: da23f9ec-753e-4e1d-bfb9-68fc3d9b626f
+  adx_fieldisrequired: true
+  adx_fieldType: StringType
+  adx_isPCFComponent: false
+  adx_label: >-
+    [
+      {
+        "LCID": 1033,
+        "Value": "Email"
+      }
+    ]
+  adx_lcid: 1033
+  adx_requiredfieldvalidationerrormessage: >-
+    [
+      {
+        "LCID": 1033,
+        "Value": ""
+      }
+    ]
+  adx_telemetryData:
+    fieldType: *o1
+    formId: *o2
+    isPrePopulateEnabled: *o0
+  adx_type: 100000000
+  adx_useattributedescriptionproperty: false
+  adx_useCustomErrorMessage: false
+  adx_validationMode: regex
+  adx_validationregularexpression: ^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$
+  adx_validationregularexpressionerrormessage: >-
+    [
+      {
+        "LCID": 1033,
+        "Value": ""
+      }
+    ]
+  adx_validationSimple:
+    restrictionType: []
+    specifiedDomains: *o3
+    isRequired: *o0
+  adx_webformmetadataid: 8d7959ef-fbc0-4fa8-853e-f71053468fdf
+  adx_webformstep: 0c267c3a-84a3-45d8-961a-5402074d78c4
+- adx_adddescription: true
+  adx_addPrePopulate: true
+  adx_attributelogicalname: park_licenceplate
+  adx_controlstyle: 
+  adx_description: >-
+    [
+      {
+        "LCID": 1033,
+        "Value": "Приклад"
+      }
+    ]
+  adx_descriptionposition: 100000000
+  adx_entityFormId: da23f9ec-753e-4e1d-bfb9-68fc3d9b626f
+  adx_fieldisrequired: true
+  adx_fieldType: StringType
+  adx_filecontent: 
+  adx_isPCFComponent: false
+  adx_label: >-
+    [
+      {
+        "LCID": 1033,
+        "Value": "Номер автомобіля"
+      }
+    ]
+  adx_lcid: 1033
+  adx_prepopulatetype: 100000000
+  adx_prepopulatevalue: AA1111AA
+  adx_requiredfieldvalidationerrormessage: >-
+    [
+      {
+        "LCID": 1033,
+        "Value": ""
+      }
+    ]
+  adx_telemetryData:
+    fieldType: *o1
+    formId: *o2
+    isPrePopulateEnabled: &o4 []
+  adx_type: 100000000
+  adx_useattributedescriptionproperty: false
+  adx_useCustomErrorMessage: false
+  adx_validationMode: regex
+  adx_validationregularexpression: ^[A-Z]{2}\d{4}[A-Z]{2}$
+  adx_validationregularexpressionerrormessage: >-
+    [
+      {
+        "LCID": 1033,
+        "Value": ""
+      }
+    ]
+  adx_validationSimple:
+    maxCharCount: []
+    isRequired: *o4
+  adx_webformmetadataid: 916384ee-39fc-4642-b3af-751470e54a0d
+  adx_webformstep: 0c267c3a-84a3-45d8-961a-5402074d78c4
+- adx_adddescription: false
+  adx_addPrePopulate: false
+  adx_attributelogicalname: park_parkplace
+  adx_controlstyle: 
+  adx_description: >-
+    [
+      {
+        "LCID": 1033,
+        "Value": ""
+      }
+    ]
+  adx_descriptionposition: 100000000
+  adx_entityFormId: da23f9ec-753e-4e1d-bfb9-68fc3d9b626f
+  adx_fieldisrequired: true
+  adx_fieldType: LookupType
+  adx_isPCFComponent: false
+  adx_label: >-
+    [
+      {
+        "LCID": 1033,
+        "Value": "Номер паркомісця"
+      }
+    ]
+  adx_lcid: 1033
+  adx_requiredfieldvalidationerrormessage: >-
+    [
+      {
+        "LCID": 1033,
+        "Value": ""
+      }
+    ]
+  adx_telemetryData:
+    fieldType: []
+    formId: *o2
+    isPrePopulateEnabled: *o0
+  adx_type: 100000000
+  adx_useattributedescriptionproperty: false
+  adx_useCustomErrorMessage: false
+  adx_validationMode: ''
+  adx_validationregularexpression: ''
+  adx_validationregularexpressionerrormessage: ''
+  adx_validationSimple: {}
+  adx_webformmetadataid: b0d5d7d4-2e86-4da8-8ad6-c5762d0404ba
+  adx_webformstep: 0c267c3a-84a3-45d8-961a-5402074d78c4

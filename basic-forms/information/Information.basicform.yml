@@ -1,0 +1,36 @@
+adx_attachfilelabel: >-
+  [
+    {
+      "LCID": 1033,
+      "Value": ""
+    }
+  ]
+adx_attachfilemaxsize: 
+adx_attachfilestoragelocation: 756150000
+adx_captcharequired: false
+adx_containername: ''
+adx_entityformid: 94e56e99-c9ec-496e-95cd-f7ffd47d7a22
+adx_entityFormMetadatas: []
+adx_entityname: cre77_feedback
+adx_entitypermissionsenabled: true
+adx_entitysourcetype: 
+adx_filecontent: 
+adx_formname: Information
+adx_hideformonsuccess: true
+adx_lcid: 1033
+adx_maximumnooffiles: 5
+adx_mode: 100000000
+adx_name: Information
+adx_onsuccess: 756150000
+adx_recordidquerystringparametername: 
+adx_redirecturl: 
+adx_redirectwebpage: 
+adx_showcaptchaforauthenticatedusers: false
+adx_storageaccountname: ''
+adx_successmessage: >-
+  [
+    {
+      "LCID": 1033,
+      "Value": ""
+    }
+  ]

@@ -1,0 +1,18 @@
+adx_accountrelationship: 
+adx_append: true
+adx_appendto: true
+adx_childTablePermissions: []
+adx_contactrelationship: 
+adx_create: false
+adx_delete: false
+adx_entitylogicalname: park_parkplace
+adx_entityname: AllAvailableParkPlacesOnTime
+adx_entitypermission_webrole:
+- aebdece5-a82f-4568-a21d-a6f2afb55567
+adx_entitypermissionid: 3edc6c31-b59d-41ec-9829-669522c32a7f
+adx_filecontent: 
+adx_parententitypermission: 
+adx_parentrelationship: 
+adx_read: true
+adx_scope: 756150000
+adx_write: false

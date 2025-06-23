@@ -1,0 +1,25 @@
+adx_attachfilemaxsize: 
+adx_attachfilestoragelocation: 756150000
+adx_captcharequired: false
+adx_entitypermissionsenabled: true
+adx_filecontent: 
+adx_formname: Перший крок форми
+adx_geolocation_maptype: 756150000
+adx_hideformonsuccess: true
+adx_maximumnooffiles: 5
+adx_mode: 100000000
+adx_movepreviouspermitted: false
+adx_name: DatePlace
+adx_nextstep: 0c267c3a-84a3-45d8-961a-5402074d78c4
+adx_referenceentitysourcetype: 100000001
+adx_referencequerystringisprimarykey: true
+adx_showcaptchaforauthenticatedusers: false
+adx_targetentitylogicalname: park_parkrental
+adx_type: 100000001
+adx_validationsummarylinksenabled: true
+adx_webform: da23f9ec-753e-4e1d-bfb9-68fc3d9b626f
+adx_webFormMetadatas:
+- []
+- []
+- []
+adx_webformstepid: 10e54883-24e0-4ed2-b9db-172ac71a7be2
